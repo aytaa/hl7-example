@@ -1,0 +1,19 @@
+{
+  "name": "hl7server",
+  "version": "1.0.0",
+  "description": "ebasaglik",
+  "main": "app.js",
+  "scripts": {
+    "start": "node lib/app.js"
+  },
+  "keywords": [
+    "hl7"
+  ],
+  "author": "aunal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.0",
+    "simple-hl7": "^3.1.0"
+  }
+}

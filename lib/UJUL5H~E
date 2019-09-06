@@ -1,0 +1,5 @@
+(err) => {
+        if (err)
+            throw err;
+        console.log('log oluşturuldu');
+    }
